@@ -71,3 +71,6 @@ let trait = macro {
 		})(require('light-traits').Trait);
   }
 }
+
+export trait;
+export impl;
