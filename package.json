@@ -1,0 +1,22 @@
+{
+  "name": "algebraic-data-traits",
+  "version": "0.0.1",
+  "description": "Trait macros for ADT.js and light-traits",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "traits",
+    "algebraic",
+    "data",
+    "types"
+  ],
+  "author": "Jaye Marshall <marshall.jaye@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "adt": "^0.7.2",
+    "light-traits": "^0.2.0",
+    "sweet.js": "^0.5.0"
+  }
+}
