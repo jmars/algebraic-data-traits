@@ -44,7 +44,7 @@ trait Barks {
 	}
 }
 
-newtype Animal {
+data Animal {
 	Dog {
 		name: String
 	},
