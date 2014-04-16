@@ -17,6 +17,13 @@ NotReallyAClass.prototype.crash = function () {
 
 [Stop it!](http://steve-yegge.blogspot.com.au/2006/03/execution-in-kingdom-of-nouns.html)
 
+## Usage
+```
+npm install -g sweet.js
+npm install jmars/algebraic-data-traits
+sjs -m adt/macros -m sparkler/macros -o index.js index.sjs
+```
+
 ## Dependencies
 * [Sweet.js](http://sweetjs.org)
 * [ADT.js](http://github.com/natefaubion/adt.js)
